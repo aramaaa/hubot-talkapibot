@@ -4,5 +4,5 @@
   
 # How to use  
   - hubotに入れる  
-  - cd 'hubotフォルダ'  
-  - .\bin\hubot --adapter '起動させるやつ'  
+  - cd /bin/hubot
+  - ./bin/hubot --adapter `起動させるやつ` 
